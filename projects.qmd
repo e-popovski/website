@@ -1,0 +1,33 @@
+---
+title: "Selected Projects"
+---
+
+## Municipal Heat Planning
+- Innsbruck – [Project link](https://irees.de/en/2023/05/02/municipal-heat-plan-for-the-city-of-innsbruck)
+- Nuremberg – [Project link](https://irees.de/en/2024/03/12/municipal-heat-planning-nuremberg/)
+- Zirndorf – [Project link](https://irees.de/en/2023/10/27/municipal-heat-supply-plan-for-the-city-of-zirndorf/)
+- Neumarkt i.d. Oberpfalz – [Project link](https://irees.de/en/2024/08/28/municipal-heat-plan-for-the-city-of-neumarkt/)
+- Frankfurt - [Project link](https://irees.de/2025/04/07/kommunale-waermeplanung-der-stadt-frankfurt-am-main/)
+- Bad Bergzabern - [Project link](https://irees.de/2024/07/31/kwp-bad-bergzabern/)
+- Lausitz - [Project link](https://irees.de/2025/07/21/kwp-lausitz/)
+
+## Transformation studies and Energy Concepts
+- Heat Masterplan Osnabrück – [Project link](https://irees.de/en/2022/07/26/heat-master-plan-osnabrueck-2/)
+- Transformation study on the decarbonization of heat supply in the region of Hoyerswerda, Weißwasser and Spremberg by 2050 - [Report](https://www.waermewende-lausitz.de/s/wp-content/uploads/sites/8/2023/09/SKL_Bericht_Kurzfassung_FINAL.pdf)
+- Energy concept for the educational and cultural district in Innsbruck - [Project link](https://irees.de/2023/12/07/energiekonzept-des-bildungs-und-kulturquartiers-in-innsbruck/)
+- Scientific support for "Climate-neutral industry" Austria - [Project link](https://irees.de/2021/05/27/wissenschaftliche-begleitung-klimaneutrale-industrie-oesterreich/)
+- Heat supply in protected areas in Berlin- [Project link](https://irees.de/2025/07/22/umsetzungsstrategie-fuer-eine-zukunftsfaehige-waermeversorgung-in-milieuschutzgebieten/)
+- Energy supply concepts for selected areas in Munich- [Project link](https://irees.de/2025/03/24/strategische-energieversorgungskonzepte-fuer-pruefgebietscluster-der-waermeplanung/)
+- Saarland state strategy for the heating transition [Project link](https://irees.de/2025/08/05/landesstrategie-waermewende-saarland/)
+
+## Research & Consulting
+- Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive - [Project link](https://op.europa.eu/en/publication-detail/-/publication/4e28b0c8-eac1-11ec-a534-01aa75ed71a1/language-en)
+- EnTEC: Digitalisation of Energy Flexibility – [Project report](https://irees.de/wp-content/uploads/2022/03/MJ0122115ENN.en_.pdf)
+- Heating Maps for Germany – [Project link](https://irees.de/en/2020/06/12/heating-maps-for-germany-en/)
+- Energy Efficiency First – [Project link](https://enefirst.eu/)
+- Win4climate – Heat transition in the industry – [Project link](https://irees.de/en/2020/06/12/win4climate-heat-transition-in-the-industry/)
+- ESCALATE - Decarbonising Heating and Cooling Systems - [Project link](https://escalate-project.eu/)
+- GIZ Technical assistance for renewable energy and energy efficiency suport for municipalities and universities in Turkey - [Project link](https://irees.de/en/2020/06/15/technical-assistance-for-renewable-energy-and-energy-efficiency-support-for-the-municipalities-and-universities-en/)
+- GIZ Sustainable Heating in China - [Project link](https://irees.de/en/2020/06/12/sustainable-heating-china-en/ )
+- Scale-up of Renewable Energy for power generation in the Western Balkan countries [Project link](https://irees.de/en/2020/06/10/scale-up-of-renewable-energy-for-power-generation-in-the-western-balkan-countries/)
+

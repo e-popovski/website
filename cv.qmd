@@ -1,0 +1,50 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Education
+- **PhD** – Albert Ludwig University of Freiburg (2022–2024)  
+  *Thesis: Modelling and techno-economic assessment of renewable heat supply technologies and district heating potentials*
+- **M.Sc. Mechanical Engineering** – Kaiserslautern University of Applied Sciences, Germany (2015–2017)  
+- **B.Sc. Mechanical Engineering** – Faculty of Mechanical Engineering, Skopje, Macedonia (2007–2011)  
+
+## Professional Experience
+- **Senior Researcher** – IREES, Karlsruhe (2019–present)  
+  - Applied research and consulting on renewable heating and municipal heat planning
+  - Led multiple projects on municipal heat planning, district heating and cooling
+  - Developed GIS Tools and models for urban energy planning
+
+- **Researcher** – Fraunhofer ISI, Karlsruhe (2016–2019) 
+  - Analyzed energy system transformation pathways and infrastructure requirements
+  -	Co-authored studies on renewable energy integration in the European energy sector
+  - Developed models for district heating and industrial energy efficiency
+
+
+- **HVAC Engineer / REHAU Technical Support Engineer** – Sanmarti DOO, Skopje (2014–2015)  
+- **HVAC Engineer** – Zikol DOO, Skopje (2011–2013)
+  - Provided technical support for REHAU products in the construction sector
+  -	Designed and supervised HVAC installation for construction projects 
+  - Coordinated with contractors and ensured compliance with standards
+
+
+## Skills
+-	Energy Systems Modeling & Techno-Economic Assessment
+-	District Heating & Renewable Energy Technologies
+-	Data Analysis: Python, SQL, Power BI
+-	HVAC Design: AutoCAD
+-	Spatial Analysis: QGIS
+-	Microsoft 365
+-	Project Management & Stakeholder Engagement
+-	Academic Research & Publications
+-	Languages: Macedonian (native), German (C2), English (C2), South Slavic languages (C1)
+
+## Top 5 CliftonStrengts
+
+1. Learner - I have a great desire to learn and want to continuously improve. The process of learning, rather than the outcome, excites me.
+2. Analytical - I search for reasons and causes and have the ability to think about all of the factors that might affect a situation.
+3. Relator - I enjoy close relationships with others and find deep satisfaction in working hard with friends to achieve a goal.
+4. Deliverative - I am best described by the serious care you take in making decisions or choices.
+5. Achiever - I You work hard and possess a great deal of stamina. I take immense satisfaction in being busy and productive.
+
+
+👉 You can also [download my full CV (PDF)](Eftim_Popovski_CV_eng.pdf).

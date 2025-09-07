@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Eftim Popovski"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/eftim-popovski-69b563119/
+      - icon: github
+        href: https://github.com/e-popovski
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme: spacelab
+    toc: true

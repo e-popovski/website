@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+## Selected Publications
+
+Here is a selection of my recent publications in the field of energy and sustainability:
+
+- **Popovski, Eftim**, Tobias Fleiter, Ragwitz Mario. The role of solar district heat in the energy transition of Germany, Energy 310 (2024) 133176 [https://doi.org/10.1016/j.energy.2024.133176](https://doi.org/10.1016/j.energy.2024.133176)
+
+- **Popovski, Eftim**, Ragwitz Mario, Brugger Heike. Decarbonization of district heating and deep retrofits of buildings as competing or synergetic strategies for the implementation of the energy first principle. Smart Energy 10 (2023) 100096  [https://doi.org/10.1016/j.segy.2023.100096](https://doi.org/10.1016/j.segy.2023.100096)
+
+- **Popovski, Eftim**, Aydemir A, Fleiter T, Bellstädt D, Büchele R, Steinbach J, The role and costs of large-scale heat pumps in decarbonising existing district heating networks - A case study for the city of Herten in Germany, Energy 2019, 180: 918-933, [https://doi.org/10.1016/j.energy.2019.05.122](https://doi.org/10.1016/j.energy.2019.05.122)  
+
+- **Popovski, Eftim**, Fleiter T, Santos H, Leal V, Fernandes E. Technical and economic feasibility of sustainable heating and cooling supply options in southern European municipalities e a case study for Matosinhos. Portugal, Energy 2018;153:311-323.  [https://doi.org/10.1016/j.energy.2018.04.036](https://doi.org/10.1016/j.energy.2018.04.036)
+
+- Mandel Tim, Kranzl Lukas, **Popovski Eftim**, Sensfuß Frank, Müller Andreas, Eichhammer Wolfgang. Investigating pathways to a net-zero emissions building sector in the European Union. What role for the Energy Efficiency First principle? Energy Efficiency (2023)  [https://doi.org/10.1007/s12053-023-10100-0](https://doi.org/10.1007/s12053-023-10100-0)
+
+- Billerbeck Anna, Breitschopf Barbara, Winkler Jenny, Bürger Veit, Köhler Benjamin, Bacquet Alexandre, **Popovski Eftim**, Fallahnejad Mostafa, Kranzl Lukas, Ragwitz Mario. Policy frameworks for district heating: A comprehensive overview and analysis of regulations and support measures across Europe. Energy Policy 173 (2023) 113377  [https://doi.org/10.1016/j.enpol.2022.113377](https://doi.org/10.1016/j.enpol.2022.113377)
