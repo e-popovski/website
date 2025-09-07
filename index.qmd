@@ -11,7 +11,7 @@ about:
       href: https://www.linkedin.com/in/eftim-popovski-69b563119/
     - icon: github
       text: GitHub
-      href: https://github.com/yourusername
+      href: https://github.com/e-popovski
     - icon: envelope
       text: Email
       href: "mailto:eftimpopovski@hotmail.com"
