@@ -17,6 +17,6 @@ about:
       href: "mailto:eftimpopovski@hotmail.com"
 ---
 
-I am an **Energy Engineer** specializing in **energy systems, resource efficiency, and district heating**. With **more than a decade** of applied research, consulting, and hands-on **HVAC** engineering experience. I work on the techno-economic assessment of renewable heat supply technologies and contribute to municipal heat planning across Germany and Europe.
+I am an **Mechnical Engineer** specializing in **energy systems, resource efficiency, and district heating**. With **more than a decade** of applied research, consulting, and hands-on **HVAC** engineering experience. I work on the techno-economic assessment of renewable heat supply technologies and contribute to municipal heat planning across Germany and Europe.
 
 I have completed my **PhD at Albert Ludwig University of Freiburg** with the focus on **modelling and integration of renewable heating solutions into existing district energy networks**. I am particularly passionate about applying GIS spatial data analysis to energy system research, as it allows me to visualize spatial dynamics and uncover insights that are critical for sustainable urban and regional planning. I continue to enjoy visiting construction sites to stay closely connected to the practical implementation of energy and HVAC solutions.
