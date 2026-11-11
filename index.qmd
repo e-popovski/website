@@ -21,5 +21,4 @@ I am a **Mechnical Engineer** and **GIS Expert** specializing in **energy system
 
 I have completed my **PhD at Albert Ludwig University of Freiburg** with the focus on **modelling and integration of renewable heating solutions into existing district energy networks**. I am particularly passionate about applying **GIS** spatial data analysis to energy system research, as it allows me to visualize spatial dynamics and uncover insights that are critical for sustainable urban and regional planning. I continue to enjoy visiting construction sites to stay closely connected to the practical implementation of energy and HVAC solutions.
 
-Currently leveraging this expertise at Gradyent as a Solutions Lead,where I deploy real-time Digital Twin software to optimize district heating networks and drive large-scale
-decarbonization
+Currently leveraging this expertise at Gradyent as a Solutions Lead,where I deploy real-time Digital Twin software to optimize district heating networks.
